@@ -13,6 +13,7 @@ sigmoid is the activation func and sigmoid_prime is its derivative.
 'Activation' class gives the activated output.
 
 Class 'error' as the name suggests calculates the error using mse(mean square error) function and its derivative msePrime
+
 output_error ![image](https://user-images.githubusercontent.com/96648258/179777312-d78b8305-8b22-4212-8d02-12ca648ef900.png)
 
 output_error_gradient![image](https://user-images.githubusercontent.com/96648258/179777570-3139d90a-b673-4660-b58a-07db5fe30215.png)![image](https://user-images.githubusercontent.com/96648258/179777634-0936dda1-1340-4921-837e-1e882fecb094.png)
