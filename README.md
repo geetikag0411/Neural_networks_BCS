@@ -1,5 +1,6 @@
 # Neural_networks_BCS
-Recruitment task
+Here I have tried to implement a basic neural network.
+
 Neural networks comprise of node layer(containing input),one or more hidden layers(one in my case) and output layer.
 ![image](https://user-images.githubusercontent.com/96648258/179774169-63328fbc-d9fe-45d2-99de-fdbaff04b4c3.png)
 
